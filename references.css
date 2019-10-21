@@ -1,0 +1,39 @@
+	body 
+	{
+		background-image: url("images/gianniswallpaper.jpg");
+		
+	}
+	/* class starts here */
+	.paragraphs
+	{
+		text-align:center;
+		font-family:Helvetica;
+		font-size:20px;
+		
+	}
+	
+	.heading1
+	{
+		text-align:center;
+		font-family:Helvetica;
+		font-size:28px;
+		font-style:italic;
+	}
+	
+	.references
+	{
+		text-align:center;
+		font-family:Helvetica;
+		font-size:20px;
+	}
+	/* class ends here */
+	
+	li 
+	{
+		display: block;
+		text-align: center;
+		padding: 6px;
+		text-decoration: none;	
+		font-family:Helvetica;
+		font-size:20px;
+	}

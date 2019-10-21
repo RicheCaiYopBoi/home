@@ -1,0 +1,60 @@
+	body 
+	{
+		background-image: url("images/shoesbackground.jpg");
+		
+	}
+	/* class starts here */
+	.heading1
+	{
+		text-align:center;
+		font-family:Helvetica;
+		font-size:28px;
+		font-style:italic;
+	}
+	
+	.centeredimages
+	{
+		display : block; 
+		margin-left : auto; 
+		margin-right : auto; 
+		opacity: 0.8;
+	}
+	
+	.paragraphs
+	{
+		text-align:center;
+		font-family:Helvetica;
+		font-size:20px;
+		
+	}
+	
+	.paragraphs2
+	{
+		text-align:left;
+		font-family:Helvetica;
+		font-size:22px;
+		
+	}
+	
+	.ending
+	{
+		text-align:center;
+		font-family:Helvetica;
+		font-size:40px;
+	}
+	
+	.references
+	{
+		text-align:center;
+		font-family:Helvetica;
+		font-size:24px;
+	}
+	
+	.heading2
+	{
+		text-align:left;
+		font-family:Helvetica;
+		font-size:28px;
+		font-style:italic;
+	}
+	/* class ends here */
